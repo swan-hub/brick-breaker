@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{f0f5bbcb-df08-f779-a625-8828059128c3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIRippleVfxAsm", "UIRippleVfxAsm.csproj", "{387e771b-3acd-1294-d6a5-1d105d44505e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIRippleVfxTestsAsm", "UIRippleVfxTestsAsm.csproj", "{b7946086-b775-62f6-6d81-7f4e310225a9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{eff66f88-d7de-34f5-26ea-783836a3423d}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{f0f5bbcb-df08-f779-a625-8828059128c3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f0f5bbcb-df08-f779-a625-8828059128c3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{387e771b-3acd-1294-d6a5-1d105d44505e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{387e771b-3acd-1294-d6a5-1d105d44505e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{b7946086-b775-62f6-6d81-7f4e310225a9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b7946086-b775-62f6-6d81-7f4e310225a9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{eff66f88-d7de-34f5-26ea-783836a3423d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{eff66f88-d7de-34f5-26ea-783836a3423d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
